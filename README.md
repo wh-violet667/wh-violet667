@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://doodlebug.tarinagarwal.in/api/card/note?text=Hi%2C%20I%27m%20Violet.%20I%20build%20a%20RAG%20assistant%20that%20remembers%20%E2%80%94%20so%20you%20don%27t%20have%20to.&author=Violet667&theme=sticky" alt="hello note" height="170" />
+  <img src="https://doodlebug.tarinagarwal.in/api/card/note?text=Hi%2C%20I%27m%20Violet.%20I%20build%20a%20RAG%20assistant%20that%20remembers%20%E2%80%94%20so%20you%20don%27t%20have%20to.&author=Violet667&theme=sakura" alt="hello note" height="170" />
   &nbsp;&nbsp;
   <img src="https://doodlebug.tarinagarwal.in/api/card/langs?username=wh-violet667&theme=sakura&layout=donut" alt="Top languages" height="170" />
 </div>
